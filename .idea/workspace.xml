@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413a2732-dd29-4716-b2fa-67adb79be901" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Teststore.iml" afterPath="$PROJECT_DIR$/Teststore.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/java/pages/BasketPage.java" afterPath="$PROJECT_DIR$/src/java/pages/BasketPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/java/pages/CheckoutPage.java" afterPath="$PROJECT_DIR$/src/java/pages/CheckoutPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/java/pages/HistoryPage.java" afterPath="$PROJECT_DIR$/src/java/pages/HistoryPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/java/pages/HomePage.java" afterPath="$PROJECT_DIR$/src/java/pages/HomePage.java" />
-      <change beforePath="$PROJECT_DIR$/src/java/pages/LatestOrderPage.java" afterPath="$PROJECT_DIR$/src/java/pages/LatestOrderPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/java/pages/PlacedOrderPage.java" afterPath="$PROJECT_DIR$/src/java/pages/PlacedOrderPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/java/testcases/OrderProcessTest.java" afterPath="$PROJECT_DIR$/src/java/testcases/OrderProcessTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BasketPage.class" afterPath="$PROJECT_DIR$/target/test-classes/pages/BasketPage.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/CheckoutPage.class" afterPath="$PROJECT_DIR$/target/test-classes/pages/CheckoutPage.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HistoryPage.class" afterPath="$PROJECT_DIR$/target/test-classes/pages/HistoryPage.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" afterPath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LatestOrderPage.class" afterPath="$PROJECT_DIR$/target/test-classes/pages/LatestOrderPage.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/PlacedOrderPage.class" afterPath="$PROJECT_DIR$/target/test-classes/pages/PlacedOrderPage.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testcases/OrderProcessTest.class" afterPath="$PROJECT_DIR$/target/test-classes/testcases/OrderProcessTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/java/files/helpers.java" afterPath="$PROJECT_DIR$/src/java/files/helpers.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,8 +18,8 @@
       <file leaf-file-name="OrderProcessTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java/testcases/OrderProcessTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+            <state relative-caret-position="816">
+              <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,8 +59,6 @@
         <option value="$PROJECT_DIR$/src/java/testcases/java/SimpleOrderTest.java" />
         <option value="$PROJECT_DIR$/src/java/pages/SuccessOrderPage.java" />
         <option value="$PROJECT_DIR$/src/java/testcases/SimpleOrderTest.java" />
-        <option value="$PROJECT_DIR$/src/java/files/data.properties" />
-        <option value="$PROJECT_DIR$/src/java/files/helpers.java" />
         <option value="$PROJECT_DIR$/src/java/testcases/OrderProcessTest.java" />
         <option value="$PROJECT_DIR$/src/java/pages/CheckoutPage.java" />
         <option value="$PROJECT_DIR$/src/java/pages/HistoryPage.java" />
@@ -87,6 +68,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/java/pages/BasketPage.java" />
         <option value="$PROJECT_DIR$/src/java/files/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/java/files/helpers.java" />
+        <option value="$PROJECT_DIR$/src/java/files/data.properties" />
       </list>
     </option>
   </component>
@@ -118,9 +101,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,7 +147,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,9 +456,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OrderProcessTest_placeTheOrder - 2018.04.22 at 15h 38m 56s.xml">
-      <configuration name="OrderProcessTest.placeTheOrder" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="OrderProcessTest_placeTheOrder - 2018.04.22 at 15h 39m 57s.xml">
       <configuration name="OrderProcessTest.placeTheOrder" configurationId="TestNG" />
     </history-entry>
@@ -501,6 +481,9 @@
       <configuration name="OrderProcessTest.placeTheOrder" configurationId="TestNG" />
     </history-entry>
     <history-entry file="OrderProcessTest_placeTheOrder - 2018.04.22 at 21h 20m 28s.xml">
+      <configuration name="OrderProcessTest.placeTheOrder" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OrderProcessTest_placeTheOrder - 2018.04.22 at 21h 32m 20s.xml">
       <configuration name="OrderProcessTest.placeTheOrder" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -823,20 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/files/data.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/files/helpers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/pages/HistoryPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -893,26 +862,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
+    <entry file="file://$PROJECT_DIR$/src/log4j2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/java/files/helpers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="544">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/files/data.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/pages/BasketPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="46" column="43" lean-forward="false" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        <state relative-caret-position="85">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/testcases/OrderProcessTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        <state relative-caret-position="816">
+          <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
